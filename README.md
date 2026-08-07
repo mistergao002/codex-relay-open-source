@@ -49,7 +49,6 @@ Codex 的当前 URL 从以下位置读取：
 
 ```text
 native-source/   C# WinForms 源码和测试
-docs/            版本验证记录
 ```
 
 ## 许可证
