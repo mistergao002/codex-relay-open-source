@@ -49,11 +49,9 @@ Codex 的当前 URL 从以下位置读取：
 
 ```text
 native-source/   C# WinForms 源码和测试
-docs/            验证与日志审查说明
+docs/            版本验证记录
 ```
 
 ## 许可证
 
 本项目采用 MIT License，详见 [LICENSE](LICENSE)。
-
-首次上传 GitHub 和发布 EXE 的图形界面操作见 [PUBLISHING.md](PUBLISHING.md)。
