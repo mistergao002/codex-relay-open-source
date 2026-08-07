@@ -1,0 +1,42 @@
+# .NET build output
+**/bin/
+**/obj/
+*.user
+*.suo
+*.pdb
+
+# IDE folders
+.vs/
+.idea/
+.vscode/
+
+# Local configuration and runtime state
+launcher-config.json
+**/launcher-config.json
+logs/
+**/logs/
+*.log
+status.json
+status.html
+latest.log
+crash.log
+diagnostics.log
+
+# Secrets and local Codex state
+.env
+.env.*
+secrets.json
+auth.json
+config.toml
+.codex/
+
+# Release and analysis output
+artifacts/
+analysis/
+*.exe
+*.dll
+*.zip
+
+# Temporary files
+*.tmp
+*.bak

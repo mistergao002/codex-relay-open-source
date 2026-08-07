@@ -1,0 +1,9 @@
+{
+  "command": "codex exec --skip-git-repo-check 你好，请回复连接测试成功",
+  "workDir": ".",
+  "interval": 10,
+  "maxTries": 0,
+  "notify": true,
+  "openDashboard": false,
+  "allowedBaseUrls": "https://api.openai.com/v1"
+}
