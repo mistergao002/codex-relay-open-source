@@ -50,7 +50,6 @@ Codex 的当前 URL 从以下位置读取：
 ```text
 native-source/   C# WinForms 源码和测试
 docs/            验证与日志审查说明
-精简版重构设计.md  功能范围与设计记录
 ```
 
 ## 许可证
